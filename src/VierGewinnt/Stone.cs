@@ -1,6 +1,6 @@
 using System;
 
-namespace VierGewinntLib
+namespace VierGewinnt
 {
     public class Stone
     {

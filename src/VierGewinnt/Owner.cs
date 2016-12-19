@@ -1,4 +1,4 @@
-namespace VierGewinntLib
+namespace VierGewinnt
 {
     enum Owner
     {
